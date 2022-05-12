@@ -1,5 +1,5 @@
 # new-repo<br>
-activity given on 12/5/2022<br>
+activity given on 00/5/2022<br>
 New repository created and edited in vs and got pushed to the repository<br>
 Then git pull comand is been is used to pul the change from there git hub <br>
 And conflit is been resolved <br>
